@@ -1,0 +1,8 @@
+.AppBar {
+  position: fixed !important;
+  width: 100%;
+}
+
+.Drawer {
+  position: fixed !important;
+}
